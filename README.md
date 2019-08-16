@@ -1,5 +1,6 @@
 # Loan calculator
-It's an app which gives the loan details for a particular amount and duration.
+It's an app which gives the loan details for a particular amount and duration.<br/>
+You can view a live demo over at https://loan-calculator-6ead8.firebaseapp.com/
 
 # Getting started
 To get the frontend running locally:
